@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my Github Page!! I am a software professional with 5.5 years of experience in Software Development, Support and Testing fields, based on AgileScrum.
+Additionally I hold a Masters degree in Digital Engineering((Computer Science masters).
+I am currently working on tools and knowledge to enhance my full stack software development skills in Java Springboot and Python (From start to deployment phase). Recently have been exploring the CICD pipeline techs, Github Pages and Github actions in collaboration with Docker and Kubernetes.
+
+
+ 
+
