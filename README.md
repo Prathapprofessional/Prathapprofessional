@@ -20,7 +20,8 @@ Additionally I hold a Masters degree in Digital Engineering((Computer Science ma
 I am currently working on tools and knowledge to enhance my full stack software development skills in Java Springboot and Python (From start to deployment phase). Recently have been exploring the CICD pipeline techs, Github Pages and Github actions in collaboration with Docker and Kubernetes.
 
 
-![image](https://github.com/user-attachments/assets/a8c36f87-217e-4ac8-bb2a-0f393fcc2228)
+![Alt Text](./work.gif)
+
 
 
 
